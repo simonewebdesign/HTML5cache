@@ -1,0 +1,20 @@
+CACHE MANIFEST
+
+# This is a comment
+
+CACHE:
+foo.html
+bar.html
+# baz isnt
+
+foo.css
+bar.js
+
+
+# http://example.com/css/styles.css
+
+# FALLBACK:
+# / /offline.html
+
+NETWORK:
+*
