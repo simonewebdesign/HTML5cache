@@ -13,8 +13,9 @@ bar.js
 
 # http://example.com/css/styles.css
 
-# FALLBACK:
-# / /offline.html
+FALLBACK:
+redirect-to-offline.html offline.html
+/ offline.html
 
 NETWORK:
 *
